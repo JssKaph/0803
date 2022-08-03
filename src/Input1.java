@@ -8,7 +8,7 @@ public class Input1 {
 			System.out.println("사원번호 : ");
 			array[i].num = sc.nextInt();
 			sc.nextLine();
-//			if (array[i].num==array[i-1].num) {
+//			if (array[i].num==array[i-1].num) {		
 //				break;
 //			}
 			System.out.println("급 : ");
@@ -20,6 +20,7 @@ public class Input1 {
 			System.out.println("수당 : ");
 			array[i].money = sc.nextInt();
 			sc.nextLine();
-		}
+			System.out.println("수당 : ");
+		} 
 	}
 }
