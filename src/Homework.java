@@ -7,7 +7,6 @@
 
 public class Homework {
 	public static void main(String[] args) {
-		int C;
 		int[][] A = { { 1, 2 }, { 3, 4 } };
 		int[][] B = { { 5, 6 }, { 7, 8 } };
 	}
